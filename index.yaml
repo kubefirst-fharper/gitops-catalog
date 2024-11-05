@@ -63,7 +63,7 @@ apps:
     description: "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and more."
     category: Observability
 
-    - name: grapple-solution-framework
+  - name: grapple-solution-framework
     displayName: Grapple
     website: "https://github.com/grafana/grafana"
     imageUrl: "https://raw.githubusercontent.com/kubefirst/gitops-catalog/main/logos/grafana.svg"
